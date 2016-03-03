@@ -47,6 +47,7 @@
 		A90B174A1C88DF1E00E756AB /* Juego de MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego de MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A90B174E1C88DF1E00E756AB /* Juego_de_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_MemoriaUITests.swift; sourceTree = "<group>"; };
 		A90B17501C88DF1E00E756AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A91AE5CD1C88E5FB00478177 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				A90B17351C88DF1E00E756AB /* Assets.xcassets */,
 				A90B17371C88DF1E00E756AB /* LaunchScreen.storyboard */,
 				A90B173A1C88DF1E00E756AB /* Info.plist */,
+				A91AE5CD1C88E5FB00478177 /* juegoDeMemoria.playground */,
 			);
 			path = "Juego de Memoria";
 			sourceTree = "<group>";
@@ -482,6 +484,7 @@
 				A90B17551C88DF1E00E756AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A90B17561C88DF1E00E756AB /* Build configuration list for PBXNativeTarget "Juego de MemoriaTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				A90B17581C88DF1E00E756AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A90B17591C88DF1E00E756AB /* Build configuration list for PBXNativeTarget "Juego de MemoriaUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				A90B175B1C88DF1E00E756AB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
